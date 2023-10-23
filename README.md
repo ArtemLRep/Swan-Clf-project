@@ -4,7 +4,7 @@
               organized by Ministry of Natural Resources and Environment of Russia. The task is to train Neural network to
               classify 3 types of rare swans: Whooper(Klikun in Russian transcription), Mute(Shipun) and Tundra swan(Malyi). The dataset consists of
               images, and masks. I used pretrained resnet34 model with FC classifier. Two last layers of resnet34, and FC classifier were trained.
-              Accuracy on test sample was %
+              Accuracy on test sample was 89.3%
           </p>
           <p>
               Also, I trained my own resnet model and a simple convolutional model. But their accuracies were lower.
